@@ -1,0 +1,16 @@
+.disel-header-box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 100px;
+    margin-bottom: 120px;
+
+    @media only screen and (max-width : 500px) {
+        & {
+            width: 100%;
+            margin-bottom: 50px;
+            gap: 20px;
+        }
+    }
+}
