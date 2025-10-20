@@ -20,4 +20,13 @@
     } to {
         transform: scale(1);
     }
-}   
+}  
+@keyframes transform  {
+    from {
+        transition: all 1s;
+        transform: translateX(20px);
+    } to {
+        transition: all 1s;
+        transform: translateX(-20px);
+    }
+}

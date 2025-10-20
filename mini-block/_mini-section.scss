@@ -6,7 +6,6 @@
     margin-bottom: 60px;
 
     &-title {
-        font-family: 'Rubik';
         font-style: normal;
         font-weight: 700;
         font-size: 48px;
@@ -42,7 +41,6 @@
     @media only screen and (max-width : 500px) {
         &-title {
             width: 95%;
-            font-family: 'Rubik';
             font-style: normal;
             font-weight: 700;
             font-size: 27px;
@@ -81,7 +79,6 @@
     &-title {
         width: 580px;
         height: 114px;
-        font-family: 'Rubik';
         font-style: normal;
         font-weight: 700;
         font-size: 48px;
@@ -111,7 +108,6 @@
         &-title {
             width: 95%;
             height: auto;
-            font-family: 'Rubik';
             font-style: normal;
             font-weight: 700;
             font-size: 27px;
